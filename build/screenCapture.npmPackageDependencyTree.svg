@@ -1,0 +1,28 @@
+<svg height="398" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="398" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">37 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">├── grunt-known-options@1.1.0</tspan>
+<tspan x="10" y="90">├── eventemitter2@0.4.14</tspan>
+<tspan x="10" y="106">├── path-is-absolute@1.0.1</tspan>
+<tspan x="10" y="122">├── rimraf@2.2.8</tspan>
+<tspan x="10" y="138">├── exit@0.1.2</tspan>
+<tspan x="10" y="154">├── nopt@3.0.6 (abbrev@1.1.0)</tspan>
+<tspan x="10" y="170">├── iconv-lite@0.4.15</tspan>
+<tspan x="10" y="186">├── coffee-script@1.10.0</tspan>
+<tspan x="10" y="202">├── minimatch@3.0.3 (brace-expansion@1.1.7)</tspan>
+<tspan x="10" y="218">├── glob@7.0.6 (inherits@2.0.3, fs.realpath@1.0.0, once@1.4.0, inflight@1.0.6)</tspan>
+<tspan x="10" y="234">├── findup-sync@0.3.0 (glob@5.0.15)</tspan>
+<tspan x="10" y="250">├── grunt-cli@1.2.0 (resolve@1.1.7)</tspan>
+<tspan x="10" y="266">├── js-yaml@3.5.5 (esprima@2.7.3, argparse@1.0.9)</tspan>
+<tspan x="10" y="282">├── dateformat@1.0.12 (get-stdin@4.0.1, meow@3.7.0)</tspan>
+<tspan x="10" y="298">├── grunt-legacy-util@1.0.0 (async@1.5.2, getobject@0.1.0, hooker@0.2.3, which@1.2.14, underscor\</tspan>
+<tspan x="10" y="314">e.string@3.2.3, lodash@4.3.0)</tspan>
+<tspan x="10" y="330">└── grunt-legacy-log@1.0.0 (hooker@0.2.3, colors@1.1.2, underscore.string@3.2.3, lodash@3.10.1, \</tspan>
+<tspan x="10" y="346">grunt-legacy-log-utils@1.0.0)</tspan>
+<tspan x="10" y="362">├── css-parse@1.7.0</tspan>
+<tspan x="10" y="378">└── publish@0.5.0 (semver@4.3.6, nopt@3.0.6, npmlog@1.2.1, npm@2.15.12)</tspan>
+</text>
+</svg>
