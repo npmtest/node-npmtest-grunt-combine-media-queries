@@ -10,7 +10,7 @@
 <tspan x="10" y="122">├── rimraf@2.2.8</tspan>
 <tspan x="10" y="138">├── exit@0.1.2</tspan>
 <tspan x="10" y="154">├── nopt@3.0.6 (abbrev@1.1.0)</tspan>
-<tspan x="10" y="170">├── iconv-lite@0.4.15</tspan>
+<tspan x="10" y="170">├── iconv-lite@0.4.16</tspan>
 <tspan x="10" y="186">├── coffee-script@1.10.0</tspan>
 <tspan x="10" y="202">├── minimatch@3.0.3 (brace-expansion@1.1.7)</tspan>
 <tspan x="10" y="218">├── glob@7.0.6 (inherits@2.0.3, fs.realpath@1.0.0, once@1.4.0, inflight@1.0.6)</tspan>
